@@ -1,0 +1,20 @@
+Changes:
+EVA3 Toolhead
+Orbiter 2 w/Filament Sensor
+BBT TFT5 LCD
+
+Filament Used:
+3DO Green & Black PETG Primary Black/Accent Green
+https://us.ratrig.com/3d-printers/filament.html?cat=227
+
+Mods or Alterations:
+EVA3 Toolhead: https://main.eva-3d.page/
+Neopixel Shroud for EVA3: https://www.printables.com/model/245559-neopixel-shroud-for-eva-3
+EVA3 Beacon3d Probe Duct: https://www.printables.com/model/413050-eva-3-beacon-probe-uhf-volcano-ducts
+Logitech C90 Mount: https://www.printables.com/model/362119-logitech-c920-3030
+
+ToDo:
+Change camera to use AngryCam hardware, Change TFT5 to mount inside the corner rather than hanging on top looking foolish.  Some form of FFC cable chain to accomodate the long FFC connecting the screen to the pi
+
+Notes:
+Orbiter2: https://www.orbiterprojects.com/orbiter-v2-0/
