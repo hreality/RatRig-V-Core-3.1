@@ -5,4 +5,5 @@ This backup is provided by [klipper-backup](https://github.com/Staubgeborener/kl
 
 
 Repo Config Backups  for RatRig V-Core 3.1 (400mm) using RatOS 2.1 RC1
-alterations can be located in notes.txt and related config changes in the associated files
+
+Alterations can be located in notes.txt and related config changes in the associated files
